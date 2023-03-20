@@ -1,9 +1,9 @@
-<div class="github-card" data-theme="github_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wildy8283&theme=github_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wildy8283&theme=github_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wildy8283&theme=github_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wildy8283&theme=github_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wildy8283&theme=github_dark&utcOffset=7">
+<div align="center">
+  <img width="805" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wildy8283&theme=github_dark">
+  <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wildy8283&theme=github_dark">
+  <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wildy8283&theme=github_dark">
+  <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wildy8283&theme=github_dark">
+  <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wildy8283&theme=github_dark&utcOffset=7">
 </div>
 
 ## Hi, I'm Wildy! 👋
