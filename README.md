@@ -22,7 +22,7 @@ You can reach me via email at admin@wildy.my.id
 * I am from Indonesia and proud of my heritage.
 
 ## 🌟 Top Programming Languages
-![Wildybytes' Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wildy8283&theme=tokyonight&layout=compact&langs_count=10)
+![wildy8283' Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wildy8283&theme=tokyonight&layout=compact&langs_count=10)
 
 ## 🔥 GitHub Stats
-![Wildybytes' GitHub stats](https://github-readme-stats.vercel.app/api?username=wildy8283&show_icons=true&theme=tokyonight)
+![wildy8283' GitHub stats](https://github-readme-stats.vercel.app/api?username=wildy8283&show_icons=true&theme=tokyonight)
