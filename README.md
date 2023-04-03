@@ -19,7 +19,7 @@ I'm a software engineer, and I'm proficient in PHP, JavaScript, Python, Bash, an
 - React
 
 ## 📈 GitHub Stats
-[![Wildy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildysheverando&show_icons=true&theme=tokyonight)](https://github.com/wildy8283)
+[![Wildy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildy8283&show_icons=true&theme=tokyonight)](https://github.com/wildy8283)
 
 ## 🔗 Connect with me
 - [Email](mailto:admin@wildy.my.id)
