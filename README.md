@@ -9,11 +9,12 @@ I'm a software engineer, and I'm proficient in PHP, JavaScript, Python, Bash, an
 
 ## 🚀 Programming Languages
 <div align="center">
-  <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP logo" width="70"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript logo" width="70"/>
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python logo" width="70"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash logo" width="70"/>
-  <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Golang logo" width="70"/>
+  <img src="https://raw.githubusercontent.com/wildy8283/wildy8283/main/Programming-Language/php.png" alt="PHP logo" width="70"/>
+  <img src="https://raw.githubusercontent.com/wildy8283/wildy8283/main/Programming-Language/python.png" alt="Python logo" width="70"/>
+  <img src="https://raw.githubusercontent.com/wildy8283/wildy8283/main/Programming-Language/golang.png" alt="Golang logo" width="70"/>
+  <img src="https://raw.githubusercontent.com/wildy8283/wildy8283/main/Programming-Language/javascript.png" alt="JavaScript logo" width="70"/>
+  <img src="https://raw.githubusercontent.com/wildy8283/wildy8283/main/Programming-Language/perl.png" alt="Perl logo" width="70"/>
+  <img src="https://raw.githubusercontent.com/wildy8283/wildy8283/main/Programming-Language/bash.png" alt="Bash logo" width="70"/>
 </div>
 
 ## 🛠️ Tools & Frameworks
