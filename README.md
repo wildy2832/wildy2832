@@ -1,30 +1,28 @@
-<div align="center">
-  <img width="805" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wildy8283&theme=github_dark">
-  <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wildy8283&theme=github_dark">
-  <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wildy8283&theme=github_dark">
-  <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wildy8283&theme=github_dark">
-  <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wildy8283&theme=github_dark&utcOffset=7">
-</div>
+# Hi there, I'm Wildy Sheverando 👋
 
-## Hi, I'm Wildy! 👋
-I am a software developer who specializes in web and mobile application development, server development, and network engineering. I enjoy creating technology solutions that can help solve real-world problems.
+I'm a software engineer, and I'm proficient in PHP, JavaScript, Python, Bash, and Golang.
 
-## 🔭 Technologies and Programming Languages I'm Proficient In
-* PHP
-* JavaScript
-* Python
-* Golang
-* Bash/Shell
-* Perl
+## 👨‍💻 Technologies
 
-## 🌱 I'm Currently Learning
-* c++
-* Java
+### Programming Languages
+- PHP
+- JavaScript
+- Python
+- Bash
+- Golang
 
-## 📫 How to Reach Me?
-You can reach me via email at admin@wildy.my.id
+### Tools & Frameworks
+- Laravel
+- Codenighter
+- PyAutoGUI
+- Flask
+- React
 
-## ⚡ Fun Facts About Me
-* I am a coffee lover and enjoy trying coffee from different places.
-* I am always eager to learn and explore new technologies.
-* I am from Indonesia and proud of my heritage.
+## 📈 GitHub Stats
+[![Wildy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildysheverando&show_icons=true&theme=tokyonight)](https://github.com/wildy8283)
+
+## 🔗 Connect with me
+- [Email](mailto:admin@wildy.my.id)
+- [Telegram](https://t.me/wildy8283)
+- [WhatsApp](https://wa.me/6281219577470]
+- [Instagram](https://instagram.com/wildy8283)
