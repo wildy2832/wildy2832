@@ -16,6 +16,10 @@ I'm a software engineer, and I'm proficient in PHP, JavaScript, Python, Bash, an
 - Codenighter
 - PyAutoGUI
 - Flask
+- MySQL
+- MonggoDB
+- Docker
+- TypeScript
 - React
 
 ## 📈 GitHub Stats
