@@ -24,5 +24,5 @@ I'm a software engineer, and I'm proficient in PHP, JavaScript, Python, Bash, an
 ## 🔗 Connect with me
 - [Email](mailto:admin@wildy.my.id)
 - [Telegram](https://t.me/wildy8283)
-- [WhatsApp](https://wa.me/6281219577470]
+- [WhatsApp](https://wa.me/6281219577470)
 - [Instagram](https://instagram.com/wildy8283)
