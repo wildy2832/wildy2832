@@ -1,7 +1,6 @@
 # Hi there, I'm Wildy Sheverando 👋
 
-I'm a software engineer, and I'm proficient in PHP, JavaScript, Python, Bash, and Golang.
-
+I'am backend developer with experience in PHP, JavaScript, Python, and Golang. I'm passionate about developing robust and scalable web applications, and I'm always looking for new and innovative ways to improve user experiences. In my free time, I enjoy exploring new technologies and contributing to open-source projects.
 
 ## 🚀 Programming Languages
 <div align="center">
