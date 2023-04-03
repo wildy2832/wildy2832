@@ -10,11 +10,7 @@ I'm a software engineer, and I'm proficient in PHP, JavaScript, Python, Bash, an
 
 ## 🛠️ Tools & Frameworks
 <div align="center">
-  <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel logo" width="70"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React logo" width="70"/>
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Django logo" width="70"/>
-  <img src="https://lerks-studio.ru/wp-content/uploads/2021/05/logo-xampp.png" alt="XAMPP logo" width="70"/>
-  <img src="https://banner2.cleanpng.com/20180715/suf/kisspng-bootstrap-responsive-web-design-logo-css3-ui-5b4b24b61f6699.5174971315316774639525.jpg" alt="Bootstrap logo" width="70"/>
+  <img src="https://raw.githubusercontent.com/wildy8283/wildy8283/main/tools-framework.png" alt="Tools Icon"/>
 </div>
 
 ## 📈 GitHub Stats
