@@ -2,10 +2,6 @@
 
 I'm a software engineer, and I'm proficient in PHP, JavaScript, Python, Bash, and Golang.
 
-<div align="center">
-  <img src="https://image.flaticon.com/icons/png/512/326/326670.png" alt="Programming Languages Icon" width="70"/>
-  <img src="https://image.flaticon.com/icons/png/512/319/319626.png" alt="Tools & Frameworks Icon" width="70"/>
-</div>
 
 ## 🚀 Programming Languages
 <div align="center">
