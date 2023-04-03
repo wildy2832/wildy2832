@@ -9,7 +9,7 @@ I'm a software engineer, and I'm proficient in PHP, JavaScript, Python, Bash, an
 
 ## 🚀 Programming Languages
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wildy8283/wildy8283/main/Programming-Language/php.png" alt="PHP logo" width="89" height="70"/>
+  <img src="https://raw.githubusercontent.com/wildy8283/wildy8283/main/Programming-Language/php.png" alt="PHP logo" width="85" height="70"/>
   <img src="https://raw.githubusercontent.com/wildy8283/wildy8283/main/Programming-Language/python.png" alt="Python logo" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/wildy8283/wildy8283/main/Programming-Language/golang.png" alt="Golang logo" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/wildy8283/wildy8283/main/Programming-Language/javascript.png" alt="JavaScript logo" width="70" height="70"/>
