@@ -13,7 +13,7 @@ I'am Wildy Sheverando, backend developer with experience in PHP, JavaScript, Pyt
 
 ## 📈 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=wildy8283&show_icons=true&theme=tokyonight" height="150px" weight="100px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildy8283&exclude_repo=KNN-Image-Classification&show_icons=true&theme=tokyonight&layout=compact&langs_count=20" height="200" weight="100">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildy8283&exclude_repo=KNN-Image-Classification&show_icons=true&theme=tokyonight&layout=compact&langs_count=20" height="150px" weight="100px">
 
 ## 🔗 Connect with me
 <div align="center">
