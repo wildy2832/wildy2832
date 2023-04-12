@@ -12,9 +12,11 @@ I'am Wildy Sheverando, backend developer with experience in PHP, JavaScript, Pyt
 </div>
 
 ## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=wildy8283&show_icons=true&theme=tokyonight" height="150px" weight="380px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildy8283&exclude_repo=KNN-Image-Classification&show_icons=true&theme=tokyonight&layout=compact&langs_count=20" height="150px" weight="380px">
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=wildy8283&show_icons=true&theme=tokyonight" height="150px" weight="380px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildy8283&exclude_repo=KNN-Image-Classification&show_icons=true&theme=tokyonight&layout=compact&langs_count=20" height="150px" weight="380px">
+</div>
+  
 ## 🔗 Connect with me
 <div align="center">
   <a href="mailto:admin@wildy.my.id"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Email icon" width="50"/></a>
