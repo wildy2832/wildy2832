@@ -19,7 +19,7 @@ I'am Wildy Sheverando, Fullstack developer with experience in PHP, JavaScript, P
   
 ## 🔗 Connect with me
 <div align="center">
-  <a href="mailto:admin@wildy.my.id"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Email icon" width="50"/></a>
+  <a href="mailto:wildy2832@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Email icon" width="50"/></a>
   <a href="https://t.me/wildy2832"><img src="https://img.icons8.com/color/96/000000/telegram-app--v1.png" alt="Telegram icon" width="50"/></a>
   <a href="https://wa.me/6285710002832"><img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" alt="WhatsApp icon" width="50"/></a>
   <a href="https://instagram.com/wildy2832"><img src="https://img.icons8.com/color/96/000000/instagram-new--v2.png" alt="Instagram icon" width="50"/></a>
