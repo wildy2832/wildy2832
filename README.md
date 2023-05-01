@@ -6,5 +6,3 @@ I'm a passionate software engineer based in North Jakarta, Indonesia. My experti
 - Telegram: https://t.me/wildy2832
 - WhatsApp: https://wa.me/6285710002832
 - Instagram: https://instagram.com/wildy2832
-
-Thanks for checking out my profile!
